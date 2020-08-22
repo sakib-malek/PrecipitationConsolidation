@@ -8,7 +8,7 @@ Dataset: https://drive.google.com/file/d/17qBkdCPd_cGimgUdjiZ2UlGhpUeSRA_i/view
 
 Setup instructions
 -------------------
-#Need to have the following tools.
+Need to have the following tools.
 
 # setting up pyspark
 ```
@@ -26,4 +26,4 @@ $ pip3 install panda
 $ pip3 install pandasql
 ```
 
-
+**Use the scrip.sh to run the program**
