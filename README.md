@@ -2,7 +2,7 @@
 Precipitation Consolidation
 CS236 Database Management Project
 
-Dataset: https://drive.google.com/file/d/17qBkdCPd_cGimgUdjiZ2UlGhpUeSRA_i/view?
+Dataset: https://drive.google.com/file/d/17qBkdCPd_cGimgUdjiZ2UlGhpUeSRA_i/view
 
 **Both datasets need to be in the same folder**
 
